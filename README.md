@@ -2,15 +2,6 @@
 
 An AI-powered workflow that reads a customer enquiry and drafts a helpful, human-sounding reply — built with Python, Streamlit, and Groq (Llama 3.3 70B).
 
----
-
-## Screenshots
-
-### Main Interface
-![App Main UI](screenshots/app_main.png)
-
-### AI-Generated Response
-![App Response](screenshots/app_response.png)
 
 ---
 
